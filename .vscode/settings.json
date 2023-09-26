@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "buble_sort.h": "c"
+        "buble_sort.h": "c",
+        "quick_sort_v3.h": "c"
     }
 }
